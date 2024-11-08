@@ -1,0 +1,14 @@
+{
+    "$schema": "https://getcomposer.org/template",
+    "author": "Epiczhul",
+    "classifications":["OS"],
+    "name":"NativeForge c# template",
+    "shortName":"nativeforge",
+    "sourceName":"kerneltemplate",
+    "tags":{
+        "language":"C#",
+        "type":"project"
+    },
+    "preferNameDirectory":true,
+    "identity":"NativeForge.Template.CSharp"
+}
