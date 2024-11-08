@@ -1,6 +1,3 @@
-//#define USBDebug
-//#define NETWORK
-
 using NativeForge;
 using System.Runtime;
 
